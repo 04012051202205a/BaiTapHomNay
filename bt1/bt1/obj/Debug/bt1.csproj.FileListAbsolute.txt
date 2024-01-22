@@ -1,0 +1,7 @@
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\bin\Debug\bt1.exe.config
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\bin\Debug\bt1.exe
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\bin\Debug\bt1.pdb
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\obj\Debug\bt1.exe
+D:\Xuan An\BaiTapHomNay\New folder\bt1\bt1\obj\Debug\bt1.pdb
